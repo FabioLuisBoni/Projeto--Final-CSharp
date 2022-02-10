@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a238a66-a9a4-447a-80b7-7db63925664b": {
+      "ProjectGuid": "8a238a66-a9a4-447a-80b7-7db63925664b",
+      "DisplayName": "AppDealocamento.Application",
+      "ColorIndex": 0
+    },
+    "f427b561-f32b-4baf-add5-43b3b22f9176": {
+      "ProjectGuid": "f427b561-f32b-4baf-add5-43b3b22f9176",
+      "DisplayName": "AppDeslocamento.Data",
+      "ColorIndex": 1
+    },
+    "b4cb23a3-b81b-4647-96ad-050824ff7880": {
+      "ProjectGuid": "b4cb23a3-b81b-4647-96ad-050824ff7880",
+      "DisplayName": "AppDeslocamento.Domain",
+      "ColorIndex": 2
+    },
+    "4423b3b7-9f5a-406a-a2a4-563047d3086b": {
+      "ProjectGuid": "4423b3b7-9f5a-406a-a2a4-563047d3086b",
+      "DisplayName": "AppDeslocamento.WebAPI",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
